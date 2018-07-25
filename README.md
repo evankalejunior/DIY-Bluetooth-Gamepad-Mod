@@ -4,7 +4,7 @@ Hello ppl,
 today I am building a bluetooth PS2 Controller that let's you play
 any controller games with "Wireless Freedom"!
 
-helloooo i have two balls
+
 
 - Author: EvanKale Jr.
 - Email: evankalejunior@gmail.com	
